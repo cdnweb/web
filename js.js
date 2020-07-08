@@ -1,5 +1,5 @@
 window.onscroll = function(){
-  //回到顶部
+  //回到顶部6
   var sllTop = document.documentElement.scrollTop||document.body.scrollTop;
   if(sllTop>240){
     $('#get-top').css('display','block')
